@@ -1,0 +1,16 @@
+PODS:
+  - DLRoute (0.0.1)
+
+DEPENDENCIES:
+  - DLRoute (from `../`)
+
+EXTERNAL SOURCES:
+  DLRoute:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DLRoute: 63e76f18779b56b178603986a6e58308ac3a2cce
+
+PODFILE CHECKSUM: 71eb2ec25ee5e08b0571f979b3f21a0d3838ef5e
+
+COCOAPODS: 1.5.3
